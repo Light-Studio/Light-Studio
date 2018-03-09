@@ -1,0 +1,11 @@
+{
+    "last_remote_check": 1520204053,
+    "hooks": {
+        "voyager-redirects": {
+            "name": "voyager-redirects",
+            "description": "A hook to add redirects to your Voyager sites",
+            "version": "v1.0.0",
+            "enabled": true
+        }
+    }
+}

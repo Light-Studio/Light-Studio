@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://localhost:8000/</loc>
+    
+    
+        <lastmod>2018-03-07T18:56:17+00:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/blog</loc>
+    
+    
+        <lastmod>2018-03-07T18:56:18+00:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/en</loc>
+    
+    
+        <lastmod>2018-03-07T18:56:19+00:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/en/blog</loc>
+    
+    
+        <lastmod>2018-03-07T18:56:20+00:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/fr</loc>
+    
+    
+        <lastmod>2018-03-07T18:56:19+00:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+</urlset>
